@@ -1,0 +1,1133 @@
+.seperator3 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #e5e5e5;
+  box-sizing: border-box;
+}
+.fabric {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 59px;
+}
+.vuesaxlineararrow-left-icon21 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.all6,
+.name6,
+.title5 {
+  align-self: stretch;
+}
+.all6 {
+  position: relative;
+}
+.title5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.unselect-all6 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: #bec8cd;
+  display: inline-block;
+}
+.checkbox22 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.muslin-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox23 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.satin-blend-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-25 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox24 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.satin-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-34 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox25 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.tericoat-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-43 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox26 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.linen-5 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-51 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox27 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.raw-silk-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-6 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox28 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.cotton-13 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox29 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.silk-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox30 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.cotton-silk-3 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-4,
+.value-9,
+.values5 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 8px;
+}
+.filter-4,
+.values5 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+.values5 {
+  overflow: hidden;
+  display: none;
+  font-size: 16px;
+}
+.filter-4 {
+  display: flex;
+}
+.seperator4 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #e5e5e5;
+  box-sizing: border-box;
+}
+.segment {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 80px;
+}
+.vuesaxlineararrow-left-icon22 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.all7,
+.name7,
+.title6 {
+  align-self: stretch;
+}
+.all7 {
+  position: relative;
+}
+.title6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.unselect-all7 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: #bec8cd;
+  display: inline-block;
+}
+.checkbox31 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.silver-4 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-16 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox32 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.ethnic-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-26 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox33 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.contemporary-11 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-7,
+.value-35,
+.values6 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-35 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 8px;
+}
+.filter-7,
+.values6 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+.values6 {
+  overflow: hidden;
+  display: none;
+  font-size: 16px;
+}
+.filter-7 {
+  display: flex;
+}
+.seperator5 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #e5e5e5;
+  box-sizing: border-box;
+}
+.suitable-for {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 112px;
+}
+.vuesaxlineararrow-left-icon23 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.all8,
+.name8,
+.title7 {
+  align-self: stretch;
+}
+.all8 {
+  position: relative;
+}
+.title7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.unselect-all8 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: #bec8cd;
+  display: inline-block;
+}
+.checkbox34 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.formal-wear-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-17 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox35 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.western-wear-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-27 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox36 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.casual-wear-7 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-8,
+.value-36,
+.values7 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-36 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 8px;
+}
+.filter-8,
+.values7 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+.values7 {
+  overflow: hidden;
+  display: none;
+  font-size: 16px;
+}
+.filter-8 {
+  display: flex;
+}
+.seperator6 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #e5e5e5;
+  box-sizing: border-box;
+}
+.raw-materials {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 128px;
+}
+.vuesaxlineararrow-left-icon24 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name9 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.all9,
+.name9,
+.title8 {
+  align-self: stretch;
+}
+.all9 {
+  position: relative;
+}
+.title8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.unselect-all9 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: #bec8cd;
+  display: inline-block;
+}
+.checkbox37 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.wool-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox38 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.silk-21 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-28 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox39 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.leather-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-37 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox40 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.cotton-5 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-44 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox41 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.cellulosic-fibers-4 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-10,
+.value-52,
+.values8 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-52 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 8px;
+}
+.filter-10,
+.values8 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+.values8 {
+  overflow: hidden;
+  display: none;
+  font-size: 16px;
+}
+.filter-10 {
+  display: flex;
+}
+.seperator7 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #e5e5e5;
+  box-sizing: border-box;
+}
+.pattern {
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  min-width: 74px;
+}
+.vuesaxlineararrow-left-icon25 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  object-fit: contain;
+}
+.name10 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+}
+.all10,
+.name10,
+.title9 {
+  align-self: stretch;
+}
+.all10 {
+  position: relative;
+}
+.title9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.unselect-all10 {
+  align-self: stretch;
+  height: 19px;
+  position: relative;
+  text-decoration: underline;
+  color: #bec8cd;
+  display: inline-block;
+}
+.checkbox42 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.windowpane-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-19 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox43 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.pinstripes-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-29 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox44 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.solid-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-38 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox45 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.chalk-stripes-2 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-45 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox46 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.slim-fit-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.value-53 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.checkbox47 {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  background-color: #fff;
+  border: 0.7px solid #4d4d4d;
+  box-sizing: border-box;
+}
+.tartan-1 {
+  height: 19px;
+  position: relative;
+  display: inline-block;
+}
+.filter-11,
+.value-61,
+.values9 {
+  align-self: stretch;
+  justify-content: flex-start;
+}
+.value-61 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 8px;
+}
+.filter-11,
+.values9 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+}
+.values9 {
+  overflow: hidden;
+  display: none;
+  font-size: 16px;
+}
+.filter-11 {
+  display: flex;
+}
+.seperator8 {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid #e5e5e5;
+  box-sizing: border-box;
+}
+.depth-first-search-inner,
+.seperator-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.seperator-parent {
+  align-self: stretch;
+  gap: 23.5px;
+}
+.depth-first-search-inner {
+  flex: 1;
+  padding: 24px 0 0;
+  box-sizing: border-box;
+  min-width: 276px;
+  max-width: 300px;
+}
+.return-refunds-icon,
+.traversal-strategy-child,
+.traversal-strategy-child1,
+.traversal-strategy-inner,
+.traversal-strategy-item {
+  align-self: stretch;
+  height: 399px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.product-name2 {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+.sign-in4 {
+  text-decoration: underline;
+}
+.sign-in-or-container4 {
+  align-self: stretch;
+  position: relative;
+}
+.sign-in-or-create-an-account-t-wrapper1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+}
+.vuesaxlinearheart-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.frame-parent3,
+.product-name-group,
+.traversal-strategy {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 25px;
+  font-size: 14px;
+  color: #878792;
+}
+.product-name-group,
+.traversal-strategy {
+  flex-direction: column;
+}
+.product-name-group {
+  align-self: stretch;
+  gap: 1px;
+}
+.traversal-strategy {
+  flex: 1;
+  gap: 16px;
+  min-width: 276px;
+  max-width: 300px;
+}
+.traversal-strategy-child2,
+.traversal-strategy-child3,
+.traversal-strategy-child4,
+.traversal-strategy-child5,
+.traversal-strategy-child6 {
+  align-self: stretch;
+  height: 399px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.product-name3 {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+.sign-in5 {
+  text-decoration: underline;
+}
+.sign-in-or-container5 {
+  align-self: stretch;
+  position: relative;
+}
+.sign-in-or-create-an-account-t-wrapper2 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+}
+.vuesaxlinearheart-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.frame-parent4,
+.product-name-container,
+.traversal-strategy1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 25px;
+  font-size: 14px;
+  color: #878792;
+}
+.product-name-container,
+.traversal-strategy1 {
+  flex-direction: column;
+}
+.product-name-container {
+  align-self: stretch;
+  gap: 1px;
+}
+.traversal-strategy1 {
+  flex: 1;
+  gap: 16px;
+  min-width: 276px;
+  max-width: 300px;
+}
+.traversal-strategy-child10,
+.traversal-strategy-child11,
+.traversal-strategy-child7,
+.traversal-strategy-child8,
+.traversal-strategy-child9 {
+  align-self: stretch;
+  height: 399px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.product-name4 {
+  align-self: stretch;
+  height: 22px;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex-shrink: 0;
+}
+.sign-in6 {
+  text-decoration: underline;
+}
+.sign-in-or-container6 {
+  align-self: stretch;
+  position: relative;
+}
+.sign-in-or-create-an-account-t-wrapper3 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 7px 0 0;
+}
+.vuesaxlinearheart-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.frame-parent5,
+.product-name-parent1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent5 {
+  flex-direction: row;
+  gap: 25px;
+  font-size: 14px;
+  color: #878792;
+}
+.product-name-parent1 {
+  flex-direction: column;
+  gap: 1px;
+}
+.depth-first-search,
+.traversal-strategy2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.traversal-strategy2 {
+  flex: 1;
+  flex-direction: column;
+  min-width: 276px;
+  max-width: 300px;
+}
+.depth-first-search {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: left;
+  font-size: 18px;
+  color: #252020;
+  font-family: ABeeZee;
+}
